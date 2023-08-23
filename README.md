@@ -2,6 +2,10 @@
 
 TextUtils is a versatile React site that provides essential text manipulation features, making it a handy tool for writers, students, and professionals. With TextUtils, you can easily count words and characters, remove extra spaces, and convert text between uppercase and lowercase. Additionally, the site offers a Dark Mode option for a comfortable writing experience during late-night sessions.
 
+## Live Demo
+
+You can try out the live demo of the app [here](https://willowy-beignet-efd980.netlify.app).
+
 ## Features
 
 - Word Count: Get the accurate word count of your text.
